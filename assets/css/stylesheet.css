@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'bubble';
+    src: url('bubble.ttf');
+}
+
+h1 {
+  font: inherit;
+  font-family: bubble;
+  vertical-align: baseline;
+  font-size: 60px;
+}
+.centered-img {
+  position: fixed;
+  top: -200px;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  max-width: 95%;
+  margin: auto;
+  overflow: auto;
+}
+.coming-soon {
+  position: fixed;
+  text-align: center;
+  margin: auto;
+  right: 0;
+  left: 0;
+  top: 80%;
+  bottom: 0;
+  max-width: 100%;
+  overflow: auto;
+}
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  background-color: white;
+  text-align: center;
+}
+
+.table {
+  width: 100%;
+  font-family: sans-serif;
+}
+.table td {
+  text-align:center;
+}
