@@ -21,14 +21,15 @@ h1 {
 }
 .coming-soon {
   position: fixed;
-  text-align: center;
-  margin: auto;
-  right: 0;
-  left: 0;
-  top: 80%;
+  top: 70%;
   bottom: 0;
-  max-width: 100%;
-  overflow: auto;
+  left: 0;
+  right: 0;
+  max-width: 95%;
+  margin: auto;
+  scroll-behavior: unset;
+  text-align: center;
+  font-size: 30px;
 }
 .footer {
   position: absolute;
