@@ -27,7 +27,7 @@ h1 {
   right: 0;
   max-width: 95%;
   margin: auto;
-  scroll-behavior: unset;
+  overflow-y: hidden;
   text-align: center;
   font-size: 30px;
 }
