@@ -14,19 +14,10 @@ h1 {
   vertical-align: baseline;
   font-size: 60px;
 }
-.centered-img {
-  position: fixed;
-  top: -200px;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  max-width: 95%;
-  margin: auto;
-  overflow: auto;
-}
+
 .coming-soon {
   position: fixed;
-  top: 70%;
+  top: 75%;
   bottom: 0;
   left: 0;
   right: 0;
