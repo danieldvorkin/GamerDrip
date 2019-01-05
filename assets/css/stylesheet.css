@@ -3,6 +3,11 @@
     src: url('bubble.ttf');
 }
 
+html {
+  background: url(full-logo.svg) no-repeat center center fixed;
+  background-size: contain;
+}
+
 h1 {
   font: inherit;
   font-family: bubble;
